@@ -1,0 +1,19 @@
+flask
+pillow
+tensorflow
+flask_sqlalchemy
+sqlalchemy
+keras
+numpy
+scikit_image
+nltk
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+=======
+flask_bcrypt
+flask_session
+>>>>>>> bd7d82e (update auth session)
+=======
+
+>>>>>>> kgenz/main
